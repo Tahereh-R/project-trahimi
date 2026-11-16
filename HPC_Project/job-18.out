@@ -1,0 +1,407 @@
+created virtual environment CPython3.11.5.final.0-64 in 1009ms
+  creator CPython3Posix(dest=/localscratch/user061.18.0/env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/user061/.local/share/virtualenv)
+    added seed packages: pip==23.2.1, setuptools==68.0.0, wheel==0.41.1
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /opt/ipython-kernel-computecanada/lib/python3.11/site-packages (26.3)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pip-26.3+computecanada-py3-none-any.whl
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 26.3
+    Not uninstalling pip at /opt/ipython-kernel-computecanada/lib/python3.11/site-packages, outside environment /localscratch/user061.18.0/env
+    Can't uninstall 'pip'. No files were found to uninstall.
+Successfully installed pip-23.2.1
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/asteval-1.0.10+computecanada-py3-none-any.whl (from -r requirements.txt (line 1))
+Installing collected packages: asteval
+Successfully installed asteval-1.0.10+computecanada
+
+Weekly Report for: dictionaries_1.txt
+
+Completed Tasks:
+✅ record study notes (Monday)
+✅ organize files (Monday)
+✅ prepare meeting notes (Tuesday)
+✅ plan weekly goals (Tuesday)
+✅ organize workspace (Wednesday)
+✅ backup important files (Wednesday)
+✅ practice presentation (Wednesday)
+✅ submit application (Wednesday)
+✅ reply to emails (Thursday)
+✅ organize workspace (Thursday)
+✅ brainstorm project ideas (Thursday)
+✅ update resume (Friday)
+✅ backup important files (Saturday)
+✅ schedule appointments (Sunday)
+✅ reply to emails (Sunday)
+✅ record study notes (Sunday)
+
+Incomplete Tasks:
+❌ schedule appointments (Monday)
+❌ update resume (Monday)
+❌ finish assignment (Tuesday)
+❌ organize workspace (Tuesday)
+❌ practice presentation (Thursday)
+❌ schedule appointments (Friday)
+❌ organize workspace (Friday)
+❌ pay bills (Friday)
+❌ plan weekly goals (Saturday)
+❌ organize files (Saturday)
+❌ organize workspace (Saturday)
+❌ read industry news (Sunday)
+
+Weekly Habits:
+review daily goals : 4 /7 days complete
+stay off social media : 2 /7 days complete
+hydrate hourly : 3 /7 days complete
+study for 1 hour : 5 /7 days complete
+stretch for 15 minutes : 5 /7 days complete
+cook a healthy meal : 6 /7 days complete
+gratitude journaling : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_2.txt
+
+Completed Tasks:
+✅ reply to emails (Monday)
+✅ submit application (Monday)
+✅ backup important files (Monday)
+✅ practice presentation (Tuesday)
+✅ pay bills (Wednesday)
+✅ finish assignment (Wednesday)
+✅ check in with team (Thursday)
+✅ read industry news (Thursday)
+✅ read research paper (Friday)
+✅ check in with team (Friday)
+✅ backup important files (Saturday)
+✅ plan weekly goals (Saturday)
+✅ log work hours (Saturday)
+✅ submit application (Sunday)
+✅ schedule appointments (Sunday)
+
+Incomplete Tasks:
+❌ submit application (Tuesday)
+❌ finish assignment (Tuesday)
+❌ reply to emails (Wednesday)
+❌ organize workspace (Thursday)
+❌ pay bills (Friday)
+❌ do coursework (Sunday)
+
+Weekly Habits:
+limit caffeine intake : 5 /7 days complete
+hydrate hourly : 5 /7 days complete
+review daily goals : 3 /7 days complete
+plan meals : 4 /7 days complete
+practice a hobby : 4 /7 days complete
+cook a healthy meal : 4 /7 days complete
+limit screen time before bed : 2 /7 days complete
+take vitamins : 2 /7 days complete
+do yoga : 2 /7 days complete
+do a digital declutter : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_3.txt
+
+Completed Tasks:
+✅ plan weekly goals (Monday)
+✅ attend virtual class (Monday)
+✅ pay bills (Wednesday)
+✅ prepare meeting notes (Thursday)
+✅ submit application (Friday)
+✅ pay bills (Friday)
+✅ read industry news (Friday)
+✅ pay bills (Saturday)
+✅ read research paper (Saturday)
+✅ do coursework (Sunday)
+✅ brainstorm project ideas (Sunday)
+
+Incomplete Tasks:
+❌ read research paper (Monday)
+❌ prepare meeting notes (Tuesday)
+❌ organize files (Tuesday)
+❌ attend virtual class (Tuesday)
+❌ brainstorm project ideas (Wednesday)
+❌ read research paper (Wednesday)
+❌ practice presentation (Thursday)
+❌ backup important files (Thursday)
+❌ practice presentation (Saturday)
+❌ finish assignment (Sunday)
+
+Weekly Habits:
+take vitamins : 1 /7 days complete
+limit caffeine intake : 4 /7 days complete
+write a to-do list : 3 /7 days complete
+cook a healthy meal : 3 /7 days complete
+gratitude journaling : 1 /7 days complete
+limit screen time before bed : 5 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_4.txt
+
+Completed Tasks:
+✅ plan weekly goals (Tuesday)
+✅ pay bills (Wednesday)
+✅ backup important files (Wednesday)
+✅ prepare meeting notes (Thursday)
+✅ attend virtual class (Thursday)
+✅ finish assignment (Friday)
+✅ attend virtual class (Friday)
+✅ do coursework (Saturday)
+✅ attend virtual class (Sunday)
+
+Incomplete Tasks:
+❌ organize workspace (Monday)
+❌ do coursework (Monday)
+❌ read industry news (Tuesday)
+❌ read research paper (Saturday)
+❌ submit application (Sunday)
+
+Weekly Habits:
+stretch for 15 minutes : 3 /7 days complete
+cook a healthy meal : 3 /7 days complete
+gratitude journaling : 2 /7 days complete
+study for 1 hour : 5 /7 days complete
+write a to-do list : 3 /7 days complete
+limit caffeine intake : 1 /7 days complete
+practice a hobby : 2 /7 days complete
+review daily goals : 2 /7 days complete
+go for a walk : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_5.txt
+
+Completed Tasks:
+✅ schedule appointments (Monday)
+✅ prepare meeting notes (Tuesday)
+✅ read industry news (Wednesday)
+✅ brainstorm project ideas (Wednesday)
+✅ schedule appointments (Wednesday)
+✅ read industry news (Thursday)
+✅ update resume (Friday)
+✅ finish assignment (Saturday)
+✅ prepare meeting notes (Saturday)
+✅ pay bills (Saturday)
+✅ do coursework (Sunday)
+✅ organize files (Sunday)
+
+Incomplete Tasks:
+❌ brainstorm project ideas (Monday)
+❌ update resume (Monday)
+❌ plan weekly goals (Tuesday)
+❌ submit application (Tuesday)
+❌ log work hours (Thursday)
+❌ prepare meeting notes (Thursday)
+❌ pay bills (Friday)
+❌ attend virtual class (Friday)
+❌ log work hours (Sunday)
+
+Weekly Habits:
+review daily goals : 3 /7 days complete
+gratitude journaling : 2 /7 days complete
+write a reflection : 5 /7 days complete
+limit caffeine intake : 2 /7 days complete
+go for a walk : 1 /7 days complete
+study for 1 hour : 2 /7 days complete
+plan meals : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_6.txt
+
+Completed Tasks:
+✅ attend online lecture (Monday)
+✅ reply to emails (Tuesday)
+✅ organize desk (Tuesday)
+✅ backup files (Tuesday)
+✅ submit assignment (Wednesday)
+✅ plan meals (Wednesday)
+✅ reply to emails (Thursday)
+✅ submit assignment (Thursday)
+✅ attend online lecture (Friday)
+✅ reply to emails (Friday)
+✅ backup files (Saturday)
+✅ organize desk (Saturday)
+✅ plan meals (Sunday)
+✅ submit assignment (Sunday)
+✅ write blog post (Sunday)
+
+Incomplete Tasks:
+❌ plan meals (Monday)
+❌ backup files (Monday)
+❌ backup files (Wednesday)
+❌ call a friend (Thursday)
+❌ organize desk (Friday)
+❌ attend online lecture (Saturday)
+
+Weekly Habits:
+study for 1 hour : 3 /7 days complete
+write a gratitude list : 2 /7 days complete
+limit screen time before bed : 6 /7 days complete
+practice an instrument : 4 /7 days complete
+eat 3 servings of vegetables : 5 /7 days complete
+take a 10-minute walk : 5 /7 days complete
+stretch for 5 minutes : 4 /7 days complete
+spend 15 minutes decluttering : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_7.txt
+
+Completed Tasks:
+✅ plan meals (Monday)
+✅ attend online lecture (Monday)
+✅ organize desk (Tuesday)
+✅ write blog post (Tuesday)
+✅ backup files (Wednesday)
+✅ reply to emails (Thursday)
+✅ organize desk (Thursday)
+✅ attend online lecture (Saturday)
+✅ organize desk (Saturday)
+
+Incomplete Tasks:
+❌ organize desk (Monday)
+❌ attend online lecture (Tuesday)
+❌ write blog post (Wednesday)
+❌ organize desk (Wednesday)
+❌ submit assignment (Thursday)
+❌ write blog post (Friday)
+❌ plan meals (Friday)
+❌ attend online lecture (Friday)
+❌ call a friend (Saturday)
+❌ plan meals (Sunday)
+❌ submit assignment (Sunday)
+❌ reply to emails (Sunday)
+
+Weekly Habits:
+eat 3 servings of vegetables : 4 /7 days complete
+study for 1 hour : 4 /7 days complete
+limit screen time before bed : 4 /7 days complete
+spend 15 minutes decluttering : 4 /7 days complete
+practice an instrument : 4 /7 days complete
+stretch for 5 minutes : 5 /7 days complete
+take a 10-minute walk : 4 /7 days complete
+write a gratitude list : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_8.txt
+
+Completed Tasks:
+✅ plan meals (Monday)
+✅ call a friend (Monday)
+✅ write blog post (Tuesday)
+✅ plan meals (Tuesday)
+✅ organize desk (Wednesday)
+✅ attend online lecture (Wednesday)
+✅ submit assignment (Thursday)
+✅ reply to emails (Friday)
+✅ plan meals (Saturday)
+✅ write blog post (Sunday)
+✅ reply to emails (Sunday)
+
+Incomplete Tasks:
+❌ write blog post (Monday)
+❌ submit assignment (Tuesday)
+❌ submit assignment (Wednesday)
+❌ plan meals (Thursday)
+❌ write blog post (Thursday)
+❌ call a friend (Friday)
+❌ submit assignment (Friday)
+❌ attend online lecture (Saturday)
+❌ organize desk (Saturday)
+❌ submit assignment (Sunday)
+
+Weekly Habits:
+spend 15 minutes decluttering : 6 /7 days complete
+eat 3 servings of vegetables : 2 /7 days complete
+study for 1 hour : 2 /7 days complete
+write a gratitude list : 3 /7 days complete
+limit screen time before bed : 4 /7 days complete
+take a 10-minute walk : 2 /7 days complete
+stretch for 5 minutes : 3 /7 days complete
+practice an instrument : 2 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_9.txt
+
+Completed Tasks:
+✅ call a friend (Monday)
+✅ submit assignment (Monday)
+✅ organize desk (Wednesday)
+✅ reply to emails (Wednesday)
+✅ attend online lecture (Saturday)
+✅ plan meals (Saturday)
+✅ backup files (Sunday)
+✅ write blog post (Sunday)
+
+Incomplete Tasks:
+❌ plan meals (Monday)
+❌ backup files (Tuesday)
+❌ organize desk (Tuesday)
+❌ reply to emails (Tuesday)
+❌ plan meals (Wednesday)
+❌ reply to emails (Thursday)
+❌ call a friend (Thursday)
+❌ backup files (Thursday)
+❌ submit assignment (Friday)
+❌ backup files (Friday)
+❌ plan meals (Friday)
+❌ reply to emails (Saturday)
+❌ submit assignment (Sunday)
+
+Weekly Habits:
+limit screen time before bed : 3 /7 days complete
+write a gratitude list : 4 /7 days complete
+practice an instrument : 4 /7 days complete
+eat 3 servings of vegetables : 3 /7 days complete
+stretch for 5 minutes : 2 /7 days complete
+take a 10-minute walk : 3 /7 days complete
+study for 1 hour : 3 /7 days complete
+spend 15 minutes decluttering : 3 /7 days complete
+
+End of Weekly Report
+
+Weekly Report for: dictionaries_10.txt
+
+Completed Tasks:
+✅ plan meals (Monday)
+✅ backup files (Tuesday)
+✅ submit assignment (Wednesday)
+✅ plan meals (Thursday)
+✅ reply to emails (Friday)
+✅ call a friend (Saturday)
+✅ reply to emails (Sunday)
+✅ organize desk (Sunday)
+✅ call a friend (Sunday)
+
+Incomplete Tasks:
+❌ backup files (Monday)
+❌ submit assignment (Monday)
+❌ reply to emails (Tuesday)
+❌ plan meals (Tuesday)
+❌ plan meals (Wednesday)
+❌ call a friend (Wednesday)
+❌ submit assignment (Thursday)
+❌ backup files (Thursday)
+❌ submit assignment (Friday)
+❌ backup files (Friday)
+❌ backup files (Saturday)
+❌ submit assignment (Saturday)
+
+Weekly Habits:
+spend 15 minutes decluttering : 3 /7 days complete
+study for 1 hour : 7 /7 days complete
+eat 3 servings of vegetables : 1 /7 days complete
+limit screen time before bed : 5 /7 days complete
+stretch for 5 minutes : 4 /7 days complete
+practice an instrument : 1 /7 days complete
+write a gratitude list : 4 /7 days complete
+take a 10-minute walk : 6 /7 days complete
+
+End of Weekly Report
